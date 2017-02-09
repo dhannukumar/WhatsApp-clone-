@@ -1,0 +1,225 @@
+body {
+    margin: 0;
+}
+
+.ph2 {
+    width: 300px;
+}
+
+.ph3 {
+    width: 550px;
+}
+
+.ph4 {
+    width: 300px;
+}
+
+li {
+    color: #fff;
+    list-style-type: none;
+}
+
+a {
+    color: white;
+    font-family: ubuntu;
+    text-decoration: none;
+}
+
+ul.blu a {
+    color: #1ebea5;
+    line-height: 50px;
+    margin: 5px;
+}
+
+ul.blu li {
+    position: relative;
+    right: 40px;
+}
+
+ul {
+    color: #808080;
+}
+
+.head {
+    background-color: #1ebea5;
+    display: flex;
+    justify-content: space-around;
+    left: 0;
+    position: fixed;
+    right: 0;
+    top: 0;
+}
+
+.whatsapp-container {
+    padding-top: 35px;
+}
+
+.d2h {
+    display: flex;
+    font-size: 13px;
+    padding-top: 15px;
+}
+
+.check {
+    vertical-align: text-top;
+}
+
+ul.d2h li {
+    margin: 20px;
+    padding-right: 20px;
+}
+
+.flex-container3 {
+    display: flex;
+    flex-direction: column;
+    padding-right: 15px;
+    padding-top: 50px;
+}
+
+.flex-container5 {
+    display: flex;
+    justify-content: center;
+    margin: 40px;
+    padding: 100px;
+}
+
+.flex-container6 {
+    display: flex;
+    justify-content: center;
+}
+
+.flex-container7 {
+    background-color: #ccd9ff;
+    margin-right: 10px;
+    padding-top: 60px;
+    text-align: center;
+    width: 700px;
+}
+
+.flex-container8 {
+    background-color: #e6ebff;
+    margin-left: 10px;
+    padding-top: 60px;
+    text-align: center;
+    width: 700px;
+}
+
+.flex-container9 {
+    background-color: #232f3c;
+    display: flex;
+    height: 270px;
+    justify-content: center;
+    margin-top: 80px;
+}
+
+.nine {
+    font-size: 14px;
+    height: 250px;
+    line-height: 22px;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 180px;
+}
+
+.item1 {
+    margin-right: 20px;
+}
+
+.item2 {
+    margin-right: 20px;
+}
+
+.item3 {
+    margin-right: 20px;
+}
+
+.item4 {
+    margin-right: 30px;
+}
+span{
+    margin-right: 30px;
+}
+
+.flex-11 {
+    background-color: #263240;
+    display: flex;
+    justify-content: center;
+    padding: 6px;
+}
+
+.ten {
+    color: #D5D8DC;
+    font-family: ubuntu;
+    font-size: 14px;
+    margin: 5px;
+    position: relative;
+    right: 385px;
+}
+
+.last {
+    font-family: ubuntu;
+    font-size: 14px;
+    margin: 5px;
+    padding-top: 15px;
+    position: relative;
+    right: 245px;
+}
+
+h1 {
+    color: #232f3c;
+    font-family: ubuntu;
+    font-weight: 100;
+}
+
+h5 {
+    color: #b1cdcd;
+    font-family: ubuntu;
+    font-weight: 500;
+    margin-right: 70px;
+    padding-top: 30px;
+    text-align: center;
+    }
+
+.one {
+    color: #CBC4C4;
+    font-family: ubuntu;
+    font-size: 13px;
+}
+
+.two {
+    color: #454545;
+    font-family: ubuntu;
+    font-size: 13px;
+}
+
+.three {
+    color: #454545;
+    font-family: ubuntu;
+    font-size: 13px;
+}
+
+.five {
+    color: #454545;
+    font-family: ubuntu;
+}
+
+.booton {
+    display: flex;
+    justify-content: center;
+    margin-top: 90px;
+  }
+
+.buton {
+    background-color: white;
+    border:2px solid #1ebea5;
+    border-radius: 40px;
+    color: #1ebea5;
+    font-family: ubuntu;
+    font-size: 18px;
+    padding: 20px 30px 20px 30px;
+}
+
+.gap {
+    margin: 30px;
+    padding: 40px;
+}
